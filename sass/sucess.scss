@@ -1,0 +1,105 @@
+#sucess{
+    #ok{
+        max-width: 1220px;
+        margin: auto;
+        padding: 80px 20px;
+        position: relative;
+        .okleft{
+            font-size: 30px;
+            position: absolute;
+            left: 12%;
+            img{
+                vertical-align: middle;
+            }
+        }
+        .okright {
+            position: absolute;
+            right: 12%;
+            a{
+                display: inline-block;
+                text-align: center;
+                line-height: 40px;
+                margin-right:20px ;
+                padding: 0px 20px;
+                height: 40px;
+                width: 120px;
+                font-size: 20px;
+                border: 1px solid pink;
+                border-radius: 50px;
+            } 
+        }
+    }
+    #link{
+        margin: 60px 0;
+        .link-t{
+            p{
+                font-size: 24px;
+                text-align: center;
+            }
+        }
+    }
+    #maybe-like{
+        width: 100%;
+        max-width:1220px;
+        min-width: 1100px;
+        margin: 20px auto;
+        ul {
+            margin-right: -14px;
+            overflow: hidden;
+            li {
+                width: 20%;
+                float: left;
+                padding: 24px 0 20px;
+                background: #FFF;
+                text-align: center;
+                position: relative;
+                cursor: pointer;
+                margin-bottom:14px;
+                &>a:hover{
+                    color: #23527c;
+                }
+                .add_btn{
+                    a{
+                        color: white;
+                        margin: auto;
+                        text-align: center;
+                        display: block;
+                        width: 180px;
+                        line-height: 30px;
+                        background-color: #1428a0;
+                        &:hover {
+                            background-color:#006ec5;
+                        }
+                    }
+                }
+                
+                &:hover .pro_rank {
+                    opacity: 0;
+                }
+                .pro_img {
+                    width: 150px;
+                    height: 150px;
+                    margin: 0 auto 18px;
+                }
+                .pro_name {
+                    display: block;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    font-weight: 400;
+                    a {
+                        color: #333;
+                    }
+                }
+                .pro_price {
+                    color: #ff6700;
+                    margin: 10px;
+                }
+                .pro_rank {
+                    color: #757575;
+                    margin: 10px;
+                }
+            }
+        }
+    }
+}

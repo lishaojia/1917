@@ -1,0 +1,327 @@
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0; }
+
+li {
+  list-style: none; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.float-left {
+  float: left; }
+
+.blue {
+  border-bottom: 2px solid blue;
+  font-weight: 800; }
+
+.float-right {
+  float: right; }
+
+a {
+  color: #363636;
+  text-decoration: none; }
+
+.hotsell-cont-re, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont {
+  width: 50%; }
+  .hotsell-cont-re a p, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p {
+    text-align: center; }
+    .hotsell-cont-re a p:nth-child(2), .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(2), .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(2), #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(2), #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(2), #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(2), #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(2), .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(2), .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(2), .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(2), .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(2), .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(2), #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(2), #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(2), .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(2), .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(2) {
+      margin-top: 10px; }
+    .hotsell-cont-re a p:nth-child(3), .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(3), .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(3), #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(3), #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(3), #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(3), #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(3), .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(3), .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(3), .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:nth-child(3), .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:nth-child(3), .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(3), #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(3), #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(3), .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(3), .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:nth-child(3) {
+      height: 35px;
+      line-height: 35px;
+      width: 90%;
+      margin: auto; }
+    .hotsell-cont-re a p:last-child, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child {
+      height: 190px;
+      margin: 30px 0 15px 0; }
+      .hotsell-cont-re a p:last-child img, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child img, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child img, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child img, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child img, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child img, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child img, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child img, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child img, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont a p:last-child img, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right a p:last-child img, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child img, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child img, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child img, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child img, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont a p:last-child img {
+        height: 100%; }
+
+.titlename, .index-wrap .hotsell .hotsell-wrap .hotsell-title, #cart .hotsell .hotsell-wrap .hotsell-title, #sucess .hotsell .hotsell-wrap .hotsell-title, .L2_warper .hotsell .hotsell-wrap .hotsell-title, .L3_warper .hotsell .hotsell-wrap .hotsell-title, .index-wrap #a-1 .smart-wrap .smart-title, .index-wrap #a-2 .smart-wrap .smart-title, .index-wrap #a-3 .smart-wrap .smart-title, .index-wrap #a-4 .smart-wrap .smart-title, .index-wrap #a-5 .smart-wrap .smart-title, #cart #a-1 .smart-wrap .smart-title, #cart #a-2 .smart-wrap .smart-title, #cart #a-3 .smart-wrap .smart-title, #cart #a-4 .smart-wrap .smart-title, #cart #a-5 .smart-wrap .smart-title, #sucess #a-1 .smart-wrap .smart-title, #sucess #a-2 .smart-wrap .smart-title, #sucess #a-3 .smart-wrap .smart-title, #sucess #a-4 .smart-wrap .smart-title, #sucess #a-5 .smart-wrap .smart-title, .L2_warper #a-1 .smart-wrap .smart-title, .L2_warper #a-2 .smart-wrap .smart-title, .L2_warper #a-3 .smart-wrap .smart-title, .L2_warper #a-4 .smart-wrap .smart-title, .L2_warper #a-5 .smart-wrap .smart-title, .L3_warper #a-1 .smart-wrap .smart-title, .L3_warper #a-2 .smart-wrap .smart-title, .L3_warper #a-3 .smart-wrap .smart-title, .L3_warper #a-4 .smart-wrap .smart-title, .L3_warper #a-5 .smart-wrap .smart-title {
+  text-align: center;
+  margin-bottom: 20px; }
+  .titlename h2, .index-wrap .hotsell .hotsell-wrap .hotsell-title h2, #cart .hotsell .hotsell-wrap .hotsell-title h2, #sucess .hotsell .hotsell-wrap .hotsell-title h2, .L2_warper .hotsell .hotsell-wrap .hotsell-title h2, .L3_warper .hotsell .hotsell-wrap .hotsell-title h2, .index-wrap #a-1 .smart-wrap .smart-title h2, .index-wrap #a-2 .smart-wrap .smart-title h2, .index-wrap #a-3 .smart-wrap .smart-title h2, .index-wrap #a-4 .smart-wrap .smart-title h2, .index-wrap #a-5 .smart-wrap .smart-title h2, #cart #a-1 .smart-wrap .smart-title h2, #cart #a-2 .smart-wrap .smart-title h2, #cart #a-3 .smart-wrap .smart-title h2, #cart #a-4 .smart-wrap .smart-title h2, #cart #a-5 .smart-wrap .smart-title h2, #sucess #a-1 .smart-wrap .smart-title h2, #sucess #a-2 .smart-wrap .smart-title h2, #sucess #a-3 .smart-wrap .smart-title h2, #sucess #a-4 .smart-wrap .smart-title h2, #sucess #a-5 .smart-wrap .smart-title h2, .L2_warper #a-1 .smart-wrap .smart-title h2, .L2_warper #a-2 .smart-wrap .smart-title h2, .L2_warper #a-3 .smart-wrap .smart-title h2, .L2_warper #a-4 .smart-wrap .smart-title h2, .L2_warper #a-5 .smart-wrap .smart-title h2, .L3_warper #a-1 .smart-wrap .smart-title h2, .L3_warper #a-2 .smart-wrap .smart-title h2, .L3_warper #a-3 .smart-wrap .smart-title h2, .L3_warper #a-4 .smart-wrap .smart-title h2, .L3_warper #a-5 .smart-wrap .smart-title h2 {
+    font-size: 30px; }
+  .titlename p, .index-wrap .hotsell .hotsell-wrap .hotsell-title p, #cart .hotsell .hotsell-wrap .hotsell-title p, #sucess .hotsell .hotsell-wrap .hotsell-title p, .L2_warper .hotsell .hotsell-wrap .hotsell-title p, .L3_warper .hotsell .hotsell-wrap .hotsell-title p, .index-wrap #a-1 .smart-wrap .smart-title p, .index-wrap #a-2 .smart-wrap .smart-title p, .index-wrap #a-3 .smart-wrap .smart-title p, .index-wrap #a-4 .smart-wrap .smart-title p, .index-wrap #a-5 .smart-wrap .smart-title p, #cart #a-1 .smart-wrap .smart-title p, #cart #a-2 .smart-wrap .smart-title p, #cart #a-3 .smart-wrap .smart-title p, #cart #a-4 .smart-wrap .smart-title p, #cart #a-5 .smart-wrap .smart-title p, #sucess #a-1 .smart-wrap .smart-title p, #sucess #a-2 .smart-wrap .smart-title p, #sucess #a-3 .smart-wrap .smart-title p, #sucess #a-4 .smart-wrap .smart-title p, #sucess #a-5 .smart-wrap .smart-title p, .L2_warper #a-1 .smart-wrap .smart-title p, .L2_warper #a-2 .smart-wrap .smart-title p, .L2_warper #a-3 .smart-wrap .smart-title p, .L2_warper #a-4 .smart-wrap .smart-title p, .L2_warper #a-5 .smart-wrap .smart-title p, .L3_warper #a-1 .smart-wrap .smart-title p, .L3_warper #a-2 .smart-wrap .smart-title p, .L3_warper #a-3 .smart-wrap .smart-title p, .L3_warper #a-4 .smart-wrap .smart-title p, .L3_warper #a-5 .smart-wrap .smart-title p {
+    height: 22px; }
+    .titlename p span, .index-wrap .hotsell .hotsell-wrap .hotsell-title p span, #cart .hotsell .hotsell-wrap .hotsell-title p span, #sucess .hotsell .hotsell-wrap .hotsell-title p span, .L2_warper .hotsell .hotsell-wrap .hotsell-title p span, .L3_warper .hotsell .hotsell-wrap .hotsell-title p span, .index-wrap #a-1 .smart-wrap .smart-title p span, .index-wrap #a-2 .smart-wrap .smart-title p span, .index-wrap #a-3 .smart-wrap .smart-title p span, .index-wrap #a-4 .smart-wrap .smart-title p span, .index-wrap #a-5 .smart-wrap .smart-title p span, #cart #a-1 .smart-wrap .smart-title p span, #cart #a-2 .smart-wrap .smart-title p span, #cart #a-3 .smart-wrap .smart-title p span, #cart #a-4 .smart-wrap .smart-title p span, #cart #a-5 .smart-wrap .smart-title p span, #sucess #a-1 .smart-wrap .smart-title p span, #sucess #a-2 .smart-wrap .smart-title p span, #sucess #a-3 .smart-wrap .smart-title p span, #sucess #a-4 .smart-wrap .smart-title p span, #sucess #a-5 .smart-wrap .smart-title p span, .L2_warper #a-1 .smart-wrap .smart-title p span, .L2_warper #a-2 .smart-wrap .smart-title p span, .L2_warper #a-3 .smart-wrap .smart-title p span, .L2_warper #a-4 .smart-wrap .smart-title p span, .L2_warper #a-5 .smart-wrap .smart-title p span, .L3_warper #a-1 .smart-wrap .smart-title p span, .L3_warper #a-2 .smart-wrap .smart-title p span, .L3_warper #a-3 .smart-wrap .smart-title p span, .L3_warper #a-4 .smart-wrap .smart-title p span, .L3_warper #a-5 .smart-wrap .smart-title p span {
+      margin: auto;
+      display: inline-block;
+      width: 25px;
+      height: 5px;
+      background-color: #1428a0; }
+
+.index-wrap, #cart, #sucess, .L2_warper, .L3_warper {
+  min-width: 1220px;
+  width: 100%;
+  height: 100%; }
+  .index-wrap .index-top-wrap, #cart .index-top-wrap, #sucess .index-top-wrap, .L2_warper .index-top-wrap, .L3_warper .index-top-wrap {
+    width: 100%;
+    height: auto;
+    background-color: #f2f2f2; }
+  .index-wrap .index-top, #cart .index-top, #sucess .index-top, .L2_warper .index-top, .L3_warper .index-top {
+    max-width: 1220px;
+    padding: 0 30px;
+    margin: 0 auto;
+    line-height: 36px; }
+    .index-wrap .index-top .index-top-left, #cart .index-top .index-top-left, #sucess .index-top .index-top-left, .L2_warper .index-top .index-top-left, .L3_warper .index-top .index-top-left {
+      float: left; }
+      .index-wrap .index-top .index-top-left a, #cart .index-top .index-top-left a, #sucess .index-top .index-top-left a, .L2_warper .index-top .index-top-left a, .L3_warper .index-top .index-top-left a {
+        line-height: 18px;
+        font-size: 18px; }
+    .index-wrap .index-top .index-top-right, #cart .index-top .index-top-right, #sucess .index-top .index-top-right, .L2_warper .index-top .index-top-right, .L3_warper .index-top .index-top-right {
+      float: right; }
+      .index-wrap .index-top .index-top-right a, #cart .index-top .index-top-right a, #sucess .index-top .index-top-right a, .L2_warper .index-top .index-top-right a, .L3_warper .index-top .index-top-right a {
+        font-size: 15px;
+        line-height: 14px;
+        margin-left: 20px; }
+  .index-wrap .index-header, #cart .index-header, #sucess .index-header, .L2_warper .index-header, .L3_warper .index-header {
+    width: 100%;
+    height: auto; }
+  .index-wrap .header-wrap, #cart .header-wrap, #sucess .header-wrap, .L2_warper .header-wrap, .L3_warper .header-wrap {
+    z-index: 99999;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: relative;
+    background-color: white; }
+    .index-wrap .header-wrap .nav, #cart .header-wrap .nav, #sucess .header-wrap .nav, .L2_warper .header-wrap .nav, .L3_warper .header-wrap .nav {
+      min-width: 1220px;
+      padding: 0 30px;
+      margin: auto;
+      position: relative; }
+      .index-wrap .header-wrap .nav .nav-menu, #cart .header-wrap .nav .nav-menu, #sucess .header-wrap .nav .nav-menu, .L2_warper .header-wrap .nav .nav-menu, .L3_warper .header-wrap .nav .nav-menu {
+        float: left; }
+        .index-wrap .header-wrap .nav .nav-menu > li, #cart .header-wrap .nav .nav-menu > li, #sucess .header-wrap .nav .nav-menu > li, .L2_warper .header-wrap .nav .nav-menu > li, .L3_warper .header-wrap .nav .nav-menu > li {
+          float: left;
+          margin: 0 16px; }
+          .index-wrap .header-wrap .nav .nav-menu > li > a, #cart .header-wrap .nav .nav-menu > li > a, #sucess .header-wrap .nav .nav-menu > li > a, .L2_warper .header-wrap .nav .nav-menu > li > a, .L3_warper .header-wrap .nav .nav-menu > li > a {
+            line-height: 64px;
+            font-size: 15px; }
+          .index-wrap .header-wrap .nav .nav-menu > li:first-child, #cart .header-wrap .nav .nav-menu > li:first-child, #sucess .header-wrap .nav .nav-menu > li:first-child, .L2_warper .header-wrap .nav .nav-menu > li:first-child, .L3_warper .header-wrap .nav .nav-menu > li:first-child {
+            margin-left: 0; }
+    .index-wrap .header-wrap .nav-contact, .index-wrap .header-wrap .act, .index-wrap #cart .header-wrap .act, #cart .index-wrap .header-wrap .act, .index-wrap #sucess .header-wrap .act, #sucess .index-wrap .header-wrap .act, #cart .header-wrap .nav-contact, #cart .header-wrap .act, #sucess .header-wrap .nav-contact, #sucess .header-wrap .act, .L2_warper .header-wrap .nav-contact, .L2_warper #cart .header-wrap .act, #cart .L2_warper .header-wrap .act, .L2_warper #sucess .header-wrap .act, #sucess .L2_warper .header-wrap .act, .L2_warper .header-wrap .act, .L3_warper .header-wrap .nav-contact, .L3_warper #cart .header-wrap .act, #cart .L3_warper .header-wrap .act, .L3_warper #sucess .header-wrap .act, #sucess .L3_warper .header-wrap .act, .L3_warper .header-wrap .act {
+      float: right; }
+      .index-wrap .header-wrap .nav-contact li, .index-wrap .header-wrap .act li, .index-wrap #cart .header-wrap .act li, #cart .index-wrap .header-wrap .act li, .index-wrap #sucess .header-wrap .act li, #sucess .index-wrap .header-wrap .act li, #cart .header-wrap .nav-contact li, #cart .header-wrap .act li, #sucess .header-wrap .nav-contact li, #sucess .header-wrap .act li, .L2_warper .header-wrap .nav-contact li, .L2_warper #cart .header-wrap .act li, #cart .L2_warper .header-wrap .act li, .L2_warper #sucess .header-wrap .act li, #sucess .L2_warper .header-wrap .act li, .L2_warper .header-wrap .act li, .L3_warper .header-wrap .nav-contact li, .L3_warper #cart .header-wrap .act li, #cart .L3_warper .header-wrap .act li, .L3_warper #sucess .header-wrap .act li, #sucess .L3_warper .header-wrap .act li, .L3_warper .header-wrap .act li {
+        float: left; }
+        .index-wrap .header-wrap .nav-contact li:first-child i, .index-wrap .header-wrap .act li:first-child i, .index-wrap #cart .header-wrap .act li:first-child i, #cart .index-wrap .header-wrap .act li:first-child i, .index-wrap #sucess .header-wrap .act li:first-child i, #sucess .index-wrap .header-wrap .act li:first-child i, #cart .header-wrap .nav-contact li:first-child i, #cart .header-wrap .act li:first-child i, #sucess .header-wrap .nav-contact li:first-child i, #sucess .header-wrap .act li:first-child i, .L2_warper .header-wrap .nav-contact li:first-child i, .L2_warper #cart .header-wrap .act li:first-child i, #cart .L2_warper .header-wrap .act li:first-child i, .L2_warper #sucess .header-wrap .act li:first-child i, #sucess .L2_warper .header-wrap .act li:first-child i, .L2_warper .header-wrap .act li:first-child i, .L3_warper .header-wrap .nav-contact li:first-child i, .L3_warper #cart .header-wrap .act li:first-child i, #cart .L3_warper .header-wrap .act li:first-child i, .L3_warper #sucess .header-wrap .act li:first-child i, #sucess .L3_warper .header-wrap .act li:first-child i, .L3_warper .header-wrap .act li:first-child i {
+          width: 16px;
+          height: 16px;
+          margin-right: 2px;
+          background-position: -20px 0;
+          top: 3px;
+          background-image: url(../img/icon.png);
+          display: inline-block; }
+        .index-wrap .header-wrap .nav-contact li a, .index-wrap .header-wrap .act li a, .index-wrap #cart .header-wrap .act li a, #cart .index-wrap .header-wrap .act li a, .index-wrap #sucess .header-wrap .act li a, #sucess .index-wrap .header-wrap .act li a, #cart .header-wrap .nav-contact li a, #cart .header-wrap .act li a, #sucess .header-wrap .nav-contact li a, #sucess .header-wrap .act li a, .L2_warper .header-wrap .nav-contact li a, .L2_warper #cart .header-wrap .act li a, #cart .L2_warper .header-wrap .act li a, .L2_warper #sucess .header-wrap .act li a, #sucess .L2_warper .header-wrap .act li a, .L2_warper .header-wrap .act li a, .L3_warper .header-wrap .nav-contact li a, .L3_warper #cart .header-wrap .act li a, #cart .L3_warper .header-wrap .act li a, .L3_warper #sucess .header-wrap .act li a, #sucess .L3_warper .header-wrap .act li a, .L3_warper .header-wrap .act li a {
+          line-height: 64px;
+          font-size: 15px;
+          margin: 0 16px; }
+    .index-wrap .header-wrap .act li:first-child i, #cart .header-wrap .act li:first-child i, #sucess .header-wrap .act li:first-child i, .L2_warper .header-wrap .act li:first-child i, .L3_warper .header-wrap .act li:first-child i {
+      width: 18px;
+      height: 18px;
+      margin-right: 2px;
+      background-position: -100px 0;
+      top: 3px;
+      background-image: url(../img/icon.png);
+      display: inline-block; }
+    .index-wrap .header-wrap .act li:last-child i, #cart .header-wrap .act li:last-child i, #sucess .header-wrap .act li:last-child i, .L2_warper .header-wrap .act li:last-child i, .L3_warper .header-wrap .act li:last-child i {
+      width: 20px;
+      height: 18px;
+      margin-right: 2px;
+      background-position: -158px 0;
+      top: 3px;
+      background-image: url(../img/icon.png);
+      display: inline-block; }
+    .index-wrap .header-wrap .logo, #cart .header-wrap .logo, #sucess .header-wrap .logo, .L2_warper .header-wrap .logo, .L3_warper .header-wrap .logo {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%); }
+      .index-wrap .header-wrap .logo img, #cart .header-wrap .logo img, #sucess .header-wrap .logo img, .L2_warper .header-wrap .logo img, .L3_warper .header-wrap .logo img {
+        width: 130px;
+        height: 22px; }
+    .index-wrap .header-wrap .sub-menu, #cart .header-wrap .sub-menu, #sucess .header-wrap .sub-menu, .L2_warper .header-wrap .sub-menu, .L3_warper .header-wrap .sub-menu {
+      width: 100%;
+      display: block;
+      position: absolute;
+      top: 100;
+      left: 2;
+      background-color: white;
+      z-index: 100; }
+      .index-wrap .header-wrap .sub-menu .sub-menu-wrap, #cart .header-wrap .sub-menu .sub-menu-wrap, #sucess .header-wrap .sub-menu .sub-menu-wrap, .L2_warper .header-wrap .sub-menu .sub-menu-wrap, .L3_warper .header-wrap .sub-menu .sub-menu-wrap {
+        display: none;
+        max-width: 1220px;
+        margin: 0 auto;
+        padding: 30px;
+        left: 0; }
+        .index-wrap .header-wrap .sub-menu .sub-menu-wrap ul li, #cart .header-wrap .sub-menu .sub-menu-wrap ul li, #sucess .header-wrap .sub-menu .sub-menu-wrap ul li, .L2_warper .header-wrap .sub-menu .sub-menu-wrap ul li, .L3_warper .header-wrap .sub-menu .sub-menu-wrap ul li {
+          float: left;
+          max-width: 100px;
+          padding: 0 23px;
+          text-align: center; }
+          .index-wrap .header-wrap .sub-menu .sub-menu-wrap ul li a, #cart .header-wrap .sub-menu .sub-menu-wrap ul li a, #sucess .header-wrap .sub-menu .sub-menu-wrap ul li a, .L2_warper .header-wrap .sub-menu .sub-menu-wrap ul li a, .L3_warper .header-wrap .sub-menu .sub-menu-wrap ul li a {
+            font-size: 13px;
+            line-height: 18px; }
+          .index-wrap .header-wrap .sub-menu .sub-menu-wrap ul li img, #cart .header-wrap .sub-menu .sub-menu-wrap ul li img, #sucess .header-wrap .sub-menu .sub-menu-wrap ul li img, .L2_warper .header-wrap .sub-menu .sub-menu-wrap ul li img, .L3_warper .header-wrap .sub-menu .sub-menu-wrap ul li img {
+            width: 100px;
+            height: 100px; }
+  .index-wrap #index-move .swiper-slide img, #cart #index-move .swiper-slide img, #sucess #index-move .swiper-slide img, .L2_warper #index-move .swiper-slide img, .L3_warper #index-move .swiper-slide img {
+    width: 100%; }
+  .index-wrap .banner, #cart .banner, #sucess .banner, .L2_warper .banner, .L3_warper .banner {
+    width: 100%; }
+    .index-wrap .banner .banner-wrap, #cart .banner .banner-wrap, #sucess .banner .banner-wrap, .L2_warper .banner .banner-wrap, .L3_warper .banner .banner-wrap {
+      max-width: 1220px;
+      position: relative;
+      margin: 50px auto; }
+      .index-wrap .banner .banner-wrap .scroll-l, #cart .banner .banner-wrap .scroll-l, #sucess .banner .banner-wrap .scroll-l, .L2_warper .banner .banner-wrap .scroll-l, .L3_warper .banner .banner-wrap .scroll-l {
+        position: absolute;
+        width: 30px;
+        height: 225px;
+        background-color: white;
+        top: 0;
+        left: -36px; }
+        .index-wrap .banner .banner-wrap .scroll-l p, #cart .banner .banner-wrap .scroll-l p, #sucess .banner .banner-wrap .scroll-l p, .L2_warper .banner .banner-wrap .scroll-l p, .L3_warper .banner .banner-wrap .scroll-l p {
+          height: 20.5%;
+          cursor: pointer; }
+        .index-wrap .banner .banner-wrap .scroll-l img, #cart .banner .banner-wrap .scroll-l img, #sucess .banner .banner-wrap .scroll-l img, .L2_warper .banner .banner-wrap .scroll-l img, .L3_warper .banner .banner-wrap .scroll-l img {
+          border: 0;
+          width: 100%; }
+      .index-wrap .banner .banner-wrap .banner-left, #cart .banner .banner-wrap .banner-left, #sucess .banner .banner-wrap .banner-left, .L2_warper .banner .banner-wrap .banner-left, .L3_warper .banner .banner-wrap .banner-left {
+        float: left;
+        width: 32.45%; }
+        .index-wrap .banner .banner-wrap .banner-left img, #cart .banner .banner-wrap .banner-left img, #sucess .banner .banner-wrap .banner-left img, .L2_warper .banner .banner-wrap .banner-left img, .L3_warper .banner .banner-wrap .banner-left img {
+          width: 100%; }
+      .index-wrap .banner .banner-wrap .banner-right, #cart .banner .banner-wrap .banner-right, #sucess .banner .banner-wrap .banner-right, .L2_warper .banner .banner-wrap .banner-right, .L3_warper .banner .banner-wrap .banner-right {
+        float: right;
+        width: 66.22%; }
+        .index-wrap .banner .banner-wrap .banner-right img, #cart .banner .banner-wrap .banner-right img, #sucess .banner .banner-wrap .banner-right img, .L2_warper .banner .banner-wrap .banner-right img, .L3_warper .banner .banner-wrap .banner-right img {
+          width: 47%; }
+  .index-wrap .hotsell, #cart .hotsell, #sucess .hotsell, .L2_warper .hotsell, .L3_warper .hotsell {
+    width: 100%; }
+    .index-wrap .hotsell .hotsell-wrap, #cart .hotsell .hotsell-wrap, #sucess .hotsell .hotsell-wrap, .L2_warper .hotsell .hotsell-wrap, .L3_warper .hotsell .hotsell-wrap {
+      max-width: 1220px;
+      margin: auto;
+      padding: 50px 0; }
+      .index-wrap .hotsell .hotsell-wrap .hotsell-left, #cart .hotsell .hotsell-wrap .hotsell-left, #sucess .hotsell .hotsell-wrap .hotsell-left, .L2_warper .hotsell .hotsell-wrap .hotsell-left, .L3_warper .hotsell .hotsell-wrap .hotsell-left {
+        width: 50%;
+        float: left; }
+        .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right {
+          float: left;
+          width: 50%; }
+          .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont border, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont border, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont border, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont border, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont border, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right border {
+            left: 1px solid #f1f1f1;
+            top: 1px solid #f1f1f1;
+            bottom: 1px solid #f1f1f1; }
+          .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-cont:hover, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-cont:hover, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-cont:hover, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont:hover, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-cont:hover, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right:hover {
+            border-top: 2px solid #0077c8; }
+        .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right {
+          width: 50%; }
+      .index-wrap .hotsell .hotsell-wrap .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-right {
+        width: 50%;
+        float: right; }
+        .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right {
+          width: 50%;
+          float: right; }
+          .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont border, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont border, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont border, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont border, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont border, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right border, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right border {
+            left: 1px solid #f1f1f1;
+            top: 1px solid #f1f1f1;
+            bottom: 1px solid #f1f1f1; }
+          .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-cont:hover, .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .index-wrap #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #cart .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .index-wrap #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #sucess .index-wrap .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-cont:hover, #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-cont:hover, #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont:hover, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L2_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #cart .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L2_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #sucess .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L2_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L2_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-cont:hover, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L3_warper #cart .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #cart .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L3_warper #sucess .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, #sucess .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover, .L3_warper .hotsell .hotsell-wrap .hotsell-right .hotsell-left .hotsell-right:hover, .L3_warper .hotsell .hotsell-wrap .hotsell-left .hotsell-right .hotsell-right:hover {
+            border-top: 2px solid #0077c8; }
+  .index-wrap #a-1, .index-wrap #a-2, .index-wrap #a-3, .index-wrap #a-4, .index-wrap #a-5, #cart #a-1, #cart #a-2, #cart #a-3, #cart #a-4, #cart #a-5, #sucess #a-1, #sucess #a-2, #sucess #a-3, #sucess #a-4, #sucess #a-5, .L2_warper #a-1, .L2_warper #a-2, .L2_warper #a-3, .L2_warper #a-4, .L2_warper #a-5, .L3_warper #a-1, .L3_warper #a-2, .L3_warper #a-3, .L3_warper #a-4, .L3_warper #a-5 {
+    width: 100%;
+    padding: 50px 0;
+    background-color: #f2f2f2; }
+    .index-wrap #a-1 .smart-wrap, .index-wrap #a-2 .smart-wrap, .index-wrap #a-3 .smart-wrap, .index-wrap #a-4 .smart-wrap, .index-wrap #a-5 .smart-wrap, #cart #a-1 .smart-wrap, #cart #a-2 .smart-wrap, #cart #a-3 .smart-wrap, #cart #a-4 .smart-wrap, #cart #a-5 .smart-wrap, #sucess #a-1 .smart-wrap, #sucess #a-2 .smart-wrap, #sucess #a-3 .smart-wrap, #sucess #a-4 .smart-wrap, #sucess #a-5 .smart-wrap, .L2_warper #a-1 .smart-wrap, .L2_warper #a-2 .smart-wrap, .L2_warper #a-3 .smart-wrap, .L2_warper #a-4 .smart-wrap, .L2_warper #a-5 .smart-wrap, .L3_warper #a-1 .smart-wrap, .L3_warper #a-2 .smart-wrap, .L3_warper #a-3 .smart-wrap, .L3_warper #a-4 .smart-wrap, .L3_warper #a-5 .smart-wrap {
+      max-width: 1220px;
+      margin: auto; }
+    .index-wrap #a-1 .phoneall ul, .index-wrap #a-2 .phoneall ul, .index-wrap #a-3 .phoneall ul, .index-wrap #a-4 .phoneall ul, .index-wrap #a-5 .phoneall ul, #cart #a-1 .phoneall ul, #cart #a-2 .phoneall ul, #cart #a-3 .phoneall ul, #cart #a-4 .phoneall ul, #cart #a-5 .phoneall ul, #sucess #a-1 .phoneall ul, #sucess #a-2 .phoneall ul, #sucess #a-3 .phoneall ul, #sucess #a-4 .phoneall ul, #sucess #a-5 .phoneall ul, .L2_warper #a-1 .phoneall ul, .L2_warper #a-2 .phoneall ul, .L2_warper #a-3 .phoneall ul, .L2_warper #a-4 .phoneall ul, .L2_warper #a-5 .phoneall ul, .L3_warper #a-1 .phoneall ul, .L3_warper #a-2 .phoneall ul, .L3_warper #a-3 .phoneall ul, .L3_warper #a-4 .phoneall ul, .L3_warper #a-5 .phoneall ul {
+      width: 923px;
+      margin: auto;
+      padding: 30px 0;
+      display: flex;
+      justify-content: space-around; }
+      .index-wrap #a-1 .phoneall ul li, .index-wrap #a-2 .phoneall ul li, .index-wrap #a-3 .phoneall ul li, .index-wrap #a-4 .phoneall ul li, .index-wrap #a-5 .phoneall ul li, #cart #a-1 .phoneall ul li, #cart #a-2 .phoneall ul li, #cart #a-3 .phoneall ul li, #cart #a-4 .phoneall ul li, #cart #a-5 .phoneall ul li, #sucess #a-1 .phoneall ul li, #sucess #a-2 .phoneall ul li, #sucess #a-3 .phoneall ul li, #sucess #a-4 .phoneall ul li, #sucess #a-5 .phoneall ul li, .L2_warper #a-1 .phoneall ul li, .L2_warper #a-2 .phoneall ul li, .L2_warper #a-3 .phoneall ul li, .L2_warper #a-4 .phoneall ul li, .L2_warper #a-5 .phoneall ul li, .L3_warper #a-1 .phoneall ul li, .L3_warper #a-2 .phoneall ul li, .L3_warper #a-3 .phoneall ul li, .L3_warper #a-4 .phoneall ul li, .L3_warper #a-5 .phoneall ul li {
+        line-height: 40px;
+        font-size: 20px;
+        margin-right: 20px; }
+    .index-wrap #a-1 .sp-left, .index-wrap #a-2 .sp-left, .index-wrap #a-3 .sp-left, .index-wrap #a-4 .sp-left, .index-wrap #a-5 .sp-left, #cart #a-1 .sp-left, #cart #a-2 .sp-left, #cart #a-3 .sp-left, #cart #a-4 .sp-left, #cart #a-5 .sp-left, #sucess #a-1 .sp-left, #sucess #a-2 .sp-left, #sucess #a-3 .sp-left, #sucess #a-4 .sp-left, #sucess #a-5 .sp-left, .L2_warper #a-1 .sp-left, .L2_warper #a-2 .sp-left, .L2_warper #a-3 .sp-left, .L2_warper #a-4 .sp-left, .L2_warper #a-5 .sp-left, .L3_warper #a-1 .sp-left, .L3_warper #a-2 .sp-left, .L3_warper #a-3 .sp-left, .L3_warper #a-4 .sp-left, .L3_warper #a-5 .sp-left {
+      width: 296px;
+      height: 271px;
+      float: left; }
+    .index-wrap #a-1 .sp-right, .index-wrap #a-2 .sp-right, .index-wrap #a-3 .sp-right, .index-wrap #a-4 .sp-right, .index-wrap #a-5 .sp-right, #cart #a-1 .sp-right, #cart #a-2 .sp-right, #cart #a-3 .sp-right, #cart #a-4 .sp-right, #cart #a-5 .sp-right, #sucess #a-1 .sp-right, #sucess #a-2 .sp-right, #sucess #a-3 .sp-right, #sucess #a-4 .sp-right, #sucess #a-5 .sp-right, .L2_warper #a-1 .sp-right, .L2_warper #a-2 .sp-right, .L2_warper #a-3 .sp-right, .L2_warper #a-4 .sp-right, .L2_warper #a-5 .sp-right, .L3_warper #a-1 .sp-right, .L3_warper #a-2 .sp-right, .L3_warper #a-3 .sp-right, .L3_warper #a-4 .sp-right, .L3_warper #a-5 .sp-right {
+      width: 923px;
+      height: 712px;
+      float: left; }
+      .index-wrap #a-1 .sp-right div, .index-wrap #a-2 .sp-right div, .index-wrap #a-3 .sp-right div, .index-wrap #a-4 .sp-right div, .index-wrap #a-5 .sp-right div, #cart #a-1 .sp-right div, #cart #a-2 .sp-right div, #cart #a-3 .sp-right div, #cart #a-4 .sp-right div, #cart #a-5 .sp-right div, #sucess #a-1 .sp-right div, #sucess #a-2 .sp-right div, #sucess #a-3 .sp-right div, #sucess #a-4 .sp-right div, #sucess #a-5 .sp-right div, .L2_warper #a-1 .sp-right div, .L2_warper #a-2 .sp-right div, .L2_warper #a-3 .sp-right div, .L2_warper #a-4 .sp-right div, .L2_warper #a-5 .sp-right div, .L3_warper #a-1 .sp-right div, .L3_warper #a-2 .sp-right div, .L3_warper #a-3 .sp-right div, .L3_warper #a-4 .sp-right div, .L3_warper #a-5 .sp-right div {
+        width: 295px;
+        height: 350px;
+        float: left;
+        margin-left: 12px;
+        margin-bottom: 10px;
+        background-color: white;
+        overflow: hidden; }
+        .index-wrap #a-1 .sp-right div p, .index-wrap #a-2 .sp-right div p, .index-wrap #a-3 .sp-right div p, .index-wrap #a-4 .sp-right div p, .index-wrap #a-5 .sp-right div p, #cart #a-1 .sp-right div p, #cart #a-2 .sp-right div p, #cart #a-3 .sp-right div p, #cart #a-4 .sp-right div p, #cart #a-5 .sp-right div p, #sucess #a-1 .sp-right div p, #sucess #a-2 .sp-right div p, #sucess #a-3 .sp-right div p, #sucess #a-4 .sp-right div p, #sucess #a-5 .sp-right div p, .L2_warper #a-1 .sp-right div p, .L2_warper #a-2 .sp-right div p, .L2_warper #a-3 .sp-right div p, .L2_warper #a-4 .sp-right div p, .L2_warper #a-5 .sp-right div p, .L3_warper #a-1 .sp-right div p, .L3_warper #a-2 .sp-right div p, .L3_warper #a-3 .sp-right div p, .L3_warper #a-4 .sp-right div p, .L3_warper #a-5 .sp-right div p {
+          text-align: center; }
+          .index-wrap #a-1 .sp-right div p:first-child, .index-wrap #a-2 .sp-right div p:first-child, .index-wrap #a-3 .sp-right div p:first-child, .index-wrap #a-4 .sp-right div p:first-child, .index-wrap #a-5 .sp-right div p:first-child, #cart #a-1 .sp-right div p:first-child, #cart #a-2 .sp-right div p:first-child, #cart #a-3 .sp-right div p:first-child, #cart #a-4 .sp-right div p:first-child, #cart #a-5 .sp-right div p:first-child, #sucess #a-1 .sp-right div p:first-child, #sucess #a-2 .sp-right div p:first-child, #sucess #a-3 .sp-right div p:first-child, #sucess #a-4 .sp-right div p:first-child, #sucess #a-5 .sp-right div p:first-child, .L2_warper #a-1 .sp-right div p:first-child, .L2_warper #a-2 .sp-right div p:first-child, .L2_warper #a-3 .sp-right div p:first-child, .L2_warper #a-4 .sp-right div p:first-child, .L2_warper #a-5 .sp-right div p:first-child, .L3_warper #a-1 .sp-right div p:first-child, .L3_warper #a-2 .sp-right div p:first-child, .L3_warper #a-3 .sp-right div p:first-child, .L3_warper #a-4 .sp-right div p:first-child, .L3_warper #a-5 .sp-right div p:first-child {
+            height: 185px;
+            margin-top: 30px; }
+            .index-wrap #a-1 .sp-right div p:first-child img, .index-wrap #a-2 .sp-right div p:first-child img, .index-wrap #a-3 .sp-right div p:first-child img, .index-wrap #a-4 .sp-right div p:first-child img, .index-wrap #a-5 .sp-right div p:first-child img, #cart #a-1 .sp-right div p:first-child img, #cart #a-2 .sp-right div p:first-child img, #cart #a-3 .sp-right div p:first-child img, #cart #a-4 .sp-right div p:first-child img, #cart #a-5 .sp-right div p:first-child img, #sucess #a-1 .sp-right div p:first-child img, #sucess #a-2 .sp-right div p:first-child img, #sucess #a-3 .sp-right div p:first-child img, #sucess #a-4 .sp-right div p:first-child img, #sucess #a-5 .sp-right div p:first-child img, .L2_warper #a-1 .sp-right div p:first-child img, .L2_warper #a-2 .sp-right div p:first-child img, .L2_warper #a-3 .sp-right div p:first-child img, .L2_warper #a-4 .sp-right div p:first-child img, .L2_warper #a-5 .sp-right div p:first-child img, .L3_warper #a-1 .sp-right div p:first-child img, .L3_warper #a-2 .sp-right div p:first-child img, .L3_warper #a-3 .sp-right div p:first-child img, .L3_warper #a-4 .sp-right div p:first-child img, .L3_warper #a-5 .sp-right div p:first-child img {
+              height: 100%; }
+          .index-wrap #a-1 .sp-right div p:nth-child(2), .index-wrap #a-2 .sp-right div p:nth-child(2), .index-wrap #a-3 .sp-right div p:nth-child(2), .index-wrap #a-4 .sp-right div p:nth-child(2), .index-wrap #a-5 .sp-right div p:nth-child(2), #cart #a-1 .sp-right div p:nth-child(2), #cart #a-2 .sp-right div p:nth-child(2), #cart #a-3 .sp-right div p:nth-child(2), #cart #a-4 .sp-right div p:nth-child(2), #cart #a-5 .sp-right div p:nth-child(2), #sucess #a-1 .sp-right div p:nth-child(2), #sucess #a-2 .sp-right div p:nth-child(2), #sucess #a-3 .sp-right div p:nth-child(2), #sucess #a-4 .sp-right div p:nth-child(2), #sucess #a-5 .sp-right div p:nth-child(2), .L2_warper #a-1 .sp-right div p:nth-child(2), .L2_warper #a-2 .sp-right div p:nth-child(2), .L2_warper #a-3 .sp-right div p:nth-child(2), .L2_warper #a-4 .sp-right div p:nth-child(2), .L2_warper #a-5 .sp-right div p:nth-child(2), .L3_warper #a-1 .sp-right div p:nth-child(2), .L3_warper #a-2 .sp-right div p:nth-child(2), .L3_warper #a-3 .sp-right div p:nth-child(2), .L3_warper #a-4 .sp-right div p:nth-child(2), .L3_warper #a-5 .sp-right div p:nth-child(2) {
+            width: auto;
+            margin: 20px 15px 0;
+            height: 42px;
+            line-height: 21px;
+            font-size: 18px; }
+          .index-wrap #a-1 .sp-right div p:nth-child(3), .index-wrap #a-2 .sp-right div p:nth-child(3), .index-wrap #a-3 .sp-right div p:nth-child(3), .index-wrap #a-4 .sp-right div p:nth-child(3), .index-wrap #a-5 .sp-right div p:nth-child(3), #cart #a-1 .sp-right div p:nth-child(3), #cart #a-2 .sp-right div p:nth-child(3), #cart #a-3 .sp-right div p:nth-child(3), #cart #a-4 .sp-right div p:nth-child(3), #cart #a-5 .sp-right div p:nth-child(3), #sucess #a-1 .sp-right div p:nth-child(3), #sucess #a-2 .sp-right div p:nth-child(3), #sucess #a-3 .sp-right div p:nth-child(3), #sucess #a-4 .sp-right div p:nth-child(3), #sucess #a-5 .sp-right div p:nth-child(3), .L2_warper #a-1 .sp-right div p:nth-child(3), .L2_warper #a-2 .sp-right div p:nth-child(3), .L2_warper #a-3 .sp-right div p:nth-child(3), .L2_warper #a-4 .sp-right div p:nth-child(3), .L2_warper #a-5 .sp-right div p:nth-child(3), .L3_warper #a-1 .sp-right div p:nth-child(3), .L3_warper #a-2 .sp-right div p:nth-child(3), .L3_warper #a-3 .sp-right div p:nth-child(3), .L3_warper #a-4 .sp-right div p:nth-child(3), .L3_warper #a-5 .sp-right div p:nth-child(3) {
+            height: 32px;
+            margin: 10px 15px 0;
+            font-size: 14px; }
+          .index-wrap #a-1 .sp-right div p:last-child, .index-wrap #a-2 .sp-right div p:last-child, .index-wrap #a-3 .sp-right div p:last-child, .index-wrap #a-4 .sp-right div p:last-child, .index-wrap #a-5 .sp-right div p:last-child, #cart #a-1 .sp-right div p:last-child, #cart #a-2 .sp-right div p:last-child, #cart #a-3 .sp-right div p:last-child, #cart #a-4 .sp-right div p:last-child, #cart #a-5 .sp-right div p:last-child, #sucess #a-1 .sp-right div p:last-child, #sucess #a-2 .sp-right div p:last-child, #sucess #a-3 .sp-right div p:last-child, #sucess #a-4 .sp-right div p:last-child, #sucess #a-5 .sp-right div p:last-child, .L2_warper #a-1 .sp-right div p:last-child, .L2_warper #a-2 .sp-right div p:last-child, .L2_warper #a-3 .sp-right div p:last-child, .L2_warper #a-4 .sp-right div p:last-child, .L2_warper #a-5 .sp-right div p:last-child, .L3_warper #a-1 .sp-right div p:last-child, .L3_warper #a-2 .sp-right div p:last-child, .L3_warper #a-3 .sp-right div p:last-child, .L3_warper #a-4 .sp-right div p:last-child, .L3_warper #a-5 .sp-right div p:last-child {
+            color: #3445ab;
+            font-size: 20px; }
+  .index-wrap .contract, #cart .contract, #sucess .contract, .L2_warper .contract, .L3_warper .contract {
+    width: 100%;
+    background-color: green; }
+    .index-wrap .contract .contract-wrap, #cart .contract .contract-wrap, #sucess .contract .contract-wrap, .L2_warper .contract .contract-wrap, .L3_warper .contract .contract-wrap {
+      max-width: 1220px;
+      margin: auto;
+      padding: 35px; }
+      .index-wrap .contract .contract-wrap .call, #cart .contract .contract-wrap .call, #sucess .contract .contract-wrap .call, .L2_warper .contract .contract-wrap .call, .L3_warper .contract .contract-wrap .call {
+        width: 33%; }
+        .index-wrap .contract .contract-wrap .call dl dt i, #cart .contract .contract-wrap .call dl dt i, #sucess .contract .contract-wrap .call dl dt i, .L2_warper .contract .contract-wrap .call dl dt i, .L3_warper .contract .contract-wrap .call dl dt i {
+          display: block;
+          width: 50px;
+          height: 50px;
+          background-image: url("https://res.samsungeshop.com.cn/resources/activityReleased/70f8993c-b387-4bec-847c-9a106fbd660a/images/icon@2x.png?20191221141943");
+          background-position: 0 -103px;
+          background-size: 370px; }
+        .index-wrap .contract .contract-wrap .call dl dd, #cart .contract .contract-wrap .call dl dd, #sucess .contract .contract-wrap .call dl dd, .L2_warper .contract .contract-wrap .call dl dd, .L3_warper .contract .contract-wrap .call dl dd {
+          padding-left: 50px;
+          display: block; }
+          .index-wrap .contract .contract-wrap .call dl dd p, #cart .contract .contract-wrap .call dl dd p, #sucess .contract .contract-wrap .call dl dd p, .L2_warper .contract .contract-wrap .call dl dd p, .L3_warper .contract .contract-wrap .call dl dd p {
+            line-height: 30px;
+            font-size: 14px; }
+  .index-wrap .footer, #cart .footer, #sucess .footer, .L2_warper .footer, .L3_warper .footer {
+    width: 100%; }
+    .index-wrap .footer .footer-wrap, #cart .footer .footer-wrap, #sucess .footer .footer-wrap, .L2_warper .footer .footer-wrap, .L3_warper .footer .footer-wrap {
+      max-width: 1220px;
+      margin: auto; }
+      .index-wrap .footer .footer-wrap .footer-menu, #cart .footer .footer-wrap .footer-menu, #sucess .footer .footer-wrap .footer-menu, .L2_warper .footer .footer-wrap .footer-menu, .L3_warper .footer .footer-wrap .footer-menu {
+        width: 70%; }
+        .index-wrap .footer .footer-wrap .footer-menu ul, #cart .footer .footer-wrap .footer-menu ul, #sucess .footer .footer-wrap .footer-menu ul, .L2_warper .footer .footer-wrap .footer-menu ul, .L3_warper .footer .footer-wrap .footer-menu ul {
+          width: 33%; }
+          .index-wrap .footer .footer-wrap .footer-menu ul li, #cart .footer .footer-wrap .footer-menu ul li, #sucess .footer .footer-wrap .footer-menu ul li, .L2_warper .footer .footer-wrap .footer-menu ul li, .L3_warper .footer .footer-wrap .footer-menu ul li {
+            line-height: 24px; }
+
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px; }

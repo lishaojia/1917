@@ -1,0 +1,90 @@
+.Llogin_wrap {
+  position: relative;
+  border-bottom: 1px solid #eee;
+  overflow: hidden; }
+  .Llogin_wrap .Llogin_concer {
+    max-width: 1220px;
+    padding: 0 30px;
+    margin: 0 auto; }
+    .Llogin_wrap .Llogin_concer .top {
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: white; }
+      .Llogin_wrap .Llogin_concer .top .top_left {
+        padding: 21px 0;
+        float: left; }
+        .Llogin_wrap .Llogin_concer .top .top_left img {
+          width: 130px;
+          display: block; }
+      .Llogin_wrap .Llogin_concer .top .top_right {
+        padding: 21px 0;
+        float: right; }
+        .Llogin_wrap .Llogin_concer .top .top_right span {
+          padding-left: 10px; }
+
+.Llogin_nav {
+  background: url(https://res.samsungeshop.com.cn//images/bind-estore/bg-pc.jpg) no-repeat center;
+  width: 100%;
+  height: 610px;
+  margin-top: 60px; }
+  .Llogin_nav .Llogin_logo_pc {
+    position: absolute;
+    top: 80px;
+    z-index: 999999;
+    left: 120px; }
+    .Llogin_nav .Llogin_logo_pc img {
+      width: 100px;
+      height: 100px; }
+  .Llogin_nav .title {
+    color: #fff;
+    position: absolute;
+    left: 160px;
+    top: 380px; }
+    .Llogin_nav .title .title-left-welcome {
+      font-size: 60px;
+      font-weight: 900; }
+    .Llogin_nav .title .title-left-discount {
+      font-size: 20px; }
+  .Llogin_nav .login_box {
+    width: 410px;
+    height: 524px;
+    background: #fff;
+    text-align: center;
+    position: absolute;
+    left: 850px;
+    top: 150px; }
+    .Llogin_nav .login_box h1 {
+      margin-top: 60px; }
+    .Llogin_nav .login_box ul {
+      margin-top: 20px;
+      margin-left: 20px; }
+    .Llogin_nav .login_box li {
+      float: left;
+      padding: 11px; }
+    .Llogin_nav .login_box .Llogin_text1 {
+      margin-top: 40px;
+      width: 200px; }
+    .Llogin_nav .login_box .Llogin_text2 {
+      margin-top: 40px;
+      width: 200px; }
+    .Llogin_nav .login_box .Llogin_btn1 {
+      margin-top: 40px;
+      display: inline-block;
+      width: 54px;
+      height: 30px;
+      text-align: center;
+      font-size: 14px;
+      color: #fff;
+      background: #1429a0;
+      border-radius: 5px; }
+    .Llogin_nav .login_box .Llogin_btn2 {
+      margin-top: 40px;
+      display: inline-block;
+      width: 54px;
+      height: 30px;
+      text-align: center;
+      font-size: 14px;
+      color: #fff;
+      background: #1429a0;
+      border-radius: 5px; }
